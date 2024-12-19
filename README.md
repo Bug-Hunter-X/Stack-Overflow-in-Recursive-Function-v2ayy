@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Hack: stack overflow due to unbounded recursion. The file `bug.hack` contains the erroneous code, while `bugSolution.hack` provides a corrected version.
